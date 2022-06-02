@@ -1,5 +1,5 @@
 
-# go-runtime-env
+# go-runtime-env .
 __note: this is a sandbox-esque project atm__
 
 This is bare bones. Includes a containerized development environment to play with Golang with a "live reload-esque," developer experience.
